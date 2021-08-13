@@ -9,3 +9,7 @@ Super simple sunday afternoon project which implements an A* on a grid map which
 4. cmake ..
 5. make -j
 6. ./map <path to map png>
+
+# Example
+
+![Example map with path](doc/example.png)
